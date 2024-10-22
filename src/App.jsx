@@ -11,12 +11,12 @@ import Maps from './Lists & Maps/Maps'
 const App = () => {
   return (
     <div>
-      {/* <Loginform/> */}
+      <Loginform/>
       {/* <UseState/> */}
       {/* <Counter/> */}
       {/* <Objects/> */}
       {/* <Rendering/> */}
-      <Maps/>
+      {/* <Maps/> */}
      {/* <Dparent/> */}
     </div>
   )
