@@ -69,10 +69,10 @@ const Dchild = ({ setDashboard }) => {
             <div className=" h-[4rem] w-[29rem] border-2 border-gray-50 relative top-1.5 left-2 rounded">
               <button
                 onClick={() => setDashboard(false)}
-                className=" bg-blue-800 text-white h-[2.5rem] w-[6rem] 
+                className=" bg-blue-800 text-white h-[2.5rem] w-[5.5rem] 
               rounded absolute right-0 top-3 mr-10 hover:bg-blue-600/80"
               >
-                LOGOUTT
+                LOGOUT
               </button>
             </div>
           </div>
