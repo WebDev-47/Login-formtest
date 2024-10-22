@@ -5,6 +5,7 @@ import Counter from './Components/Counter'
 import Objects from './Components/Objects'
 import Rendering from './Components/Login/Rendering'
 import Dparent from './Components/Login/Dparent'
+import Maps from './Lists & Maps/Maps'
 
 
 const App = () => {
@@ -15,7 +16,8 @@ const App = () => {
       {/* <Counter/> */}
       {/* <Objects/> */}
       {/* <Rendering/> */}
-     <Dparent/>
+      <Maps/>
+     {/* <Dparent/> */}
     </div>
   )
 }
