@@ -70,7 +70,7 @@ const Dchild = ({ setDashboard }) => {
               <button
                 onClick={() => setDashboard(false)}
                 className=" bg-blue-800 text-white h-[2.5rem] w-[5.5rem] 
-              rounded absolute right-0 top-3 mr-10 hover:bg-blue-600/80"
+              rounded absolute right-0 top-3 mr-10 hover:bg-blue-600/90"
               >
                 LOGOUT
               </button>
